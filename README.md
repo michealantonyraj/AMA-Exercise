@@ -10,8 +10,8 @@
 
 1. **Clone the repository:**
 
-git clone https://github.com/your-username/ShiftCharacters.git
-cd StringShifter
+git clone https://github.com/michealantonyraj/AMA-Exercise.git
+cd AMA-Exercise
 
 2. **Compile the Java file:**
 
